@@ -24,22 +24,38 @@ An intelligent AI-driven medical diagnosis chatbot built using Streamlit, YOLO, 
 
 
 🧠 Tech Stack
+
+
 Tool/Tech	Usage
+
+
 Streamlit	UI & Web App
+
 YOLO (Ultralytics)	Object & anomaly detection
+
 Google Gemini AI	Insight generation
+
 Deep Translator	Multilingual support
+
 OpenCV	Image preprocessing
+
 SpeechRecognition	Voice input
+
 gTTS	Voice output
+
 Python	Core logic
 
 
 📌 Project Workflow
+
 1️⃣ Upload a medical image (optional)
+
 2️⃣ YOLO detects visible anomalies
+
 3️⃣ User asks question via text or voice
+
 4️⃣ Gemini AI provides medical guidance
+
 5️⃣ Response delivered in selected language with optional audio output
 
 
