@@ -26,7 +26,6 @@ An intelligent AI-driven medical diagnosis chatbot built using Streamlit, YOLO, 
 🧠 Tech Stack
 
 
-Tool/Tech	Usage
 
 
 Streamlit	UI & Web App
@@ -46,7 +45,12 @@ gTTS	Voice output
 Python	Core logic
 
 
+
+
+
 📌 Project Workflow
+
+
 
 1️⃣ Upload a medical image (optional)
 
