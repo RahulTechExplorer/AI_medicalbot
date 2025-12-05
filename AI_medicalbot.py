@@ -11,7 +11,7 @@ import tempfile
 import os
 
 # -------- CONFIG --------
-API_KEY = "AIzaSyDg8MSjNfjJDfczC0nJjFZcEh3w9XiDH-8"
+API_KEY = "Enter your api key here"
 genai.configure(api_key=API_KEY)
 llm_model = genai.GenerativeModel('gemini-1.5-flash')
 
