@@ -6,6 +6,8 @@ An intelligent AI-driven medical diagnosis chatbot built using Streamlit, YOLO, 
 
 
 🚀 Features
+
+
 🔍 YOLO-based Image Detection for medical scans (X-ray, CT, MRI, eye images, and more)
 
 🤖 Gemini AI–Generated Medical Insights including causes, precautions, and suggestions
