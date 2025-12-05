@@ -3,8 +3,9 @@ YOLO Detection | Gemini AI Insights | Multilingual Voice Assistant
 
 An intelligent AI-driven medical diagnosis chatbot built using Streamlit, YOLO, and Google Gemini AI, designed to assist users by analyzing medical images and answering health-related queries through text or voice. The system supports multilingual communication, making medical information accessible and user-friendly.
 
-🚀 Features
 
+
+🚀 Features
 🔍 YOLO-based Image Detection for medical scans (X-ray, CT, MRI, eye images, and more)
 
 🤖 Gemini AI–Generated Medical Insights including causes, precautions, and suggestions
@@ -19,6 +20,7 @@ An intelligent AI-driven medical diagnosis chatbot built using Streamlit, YOLO, 
 
 🧩 Simple and interactive Streamlit UI
 
+
 🧠 Tech Stack
 Tool/Tech	Usage
 Streamlit	UI & Web App
@@ -29,8 +31,9 @@ OpenCV	Image preprocessing
 SpeechRecognition	Voice input
 gTTS	Voice output
 Python	Core logic
-📌 Project Workflow
 
+
+📌 Project Workflow
 1️⃣ Upload a medical image (optional)
 2️⃣ YOLO detects visible anomalies
 3️⃣ User asks question via text or voice
