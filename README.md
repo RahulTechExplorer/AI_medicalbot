@@ -1,67 +1,28 @@
 🩺 AI Medical Diagnosis Chatbot
-YOLO Detection | Gemini AI Insights | Multilingual Voice Assistant
 
-An intelligent AI-driven medical diagnosis chatbot built using Streamlit, YOLO, and Google Gemini AI, designed to assist users by analyzing medical images and answering health-related queries through text or voice. The system supports multilingual communication, making medical information accessible and user-friendly.
+This project is an AI-powered medical diagnosis chatbot that combines YOLO image detection, Google Gemini AI, and multilingual voice-based communication to provide preliminary medical insights. Users can upload medical scans such as X-rays, CT, or MRI images, ask health-related questions through text or voice, and receive AI-generated responses in multiple languages. The chatbot focuses on accessibility, simplicity, and intelligent human-computer interaction, making medical information more understandable and engaging.
 
+🚀 Key Highlights
 
+Perform YOLO-powered visual detection on medical images
 
-🚀 Features
+Generate AI-based medical insights, causes, and general guidance
 
+Ask questions using voice or text for seamless communication
 
-🔍 YOLO-based Image Detection for medical scans (X-ray, CT, MRI, eye images, and more)
+Get responses as text or optional voice output
 
-🤖 Gemini AI–Generated Medical Insights including causes, precautions, and suggestions
+Multilingual support for better accessibility
 
-🌍 Multilingual Translation support (English, Hindi, Telugu, Tamil, Bengali)
+Designed with a clean and interactive UI for a smooth user experience
 
-🎤 Speech-to-Text
+🎯 Purpose
 
-🔊 Text-to-Speech for interactive voice responses
+The project aims to bridge the gap between medical awareness and accessibility by assisting users with AI-generated insights. It serves as a supportive tool for educational learning, early understanding of medical conditions, and user-friendly health information delivery — not a replacement for professional diagnosis.
 
-💬 Ask questions with or without an image upload
+⚠ Disclaimer
 
-🧩 Simple and interactive Streamlit UI
-
-
-🧠 Tech Stack
-
-
-
-
-Streamlit	UI & Web App
-
-YOLO (Ultralytics)	Object & anomaly detection
-
-Google Gemini AI	Insight generation
-
-Deep Translator	Multilingual support
-
-OpenCV	Image preprocessing
-
-SpeechRecognition	Voice input
-
-gTTS	Voice output
-
-Python	Core logic
-
-
-
-
-
-📌 Project Workflow
-
-
-
-1️⃣ Upload a medical image (optional)
-
-2️⃣ YOLO detects visible anomalies
-
-3️⃣ User asks question via text or voice
-
-4️⃣ Gemini AI provides medical guidance
-
-5️⃣ Response delivered in selected language with optional audio output
-
-
-<img width="2618" height="1271" alt="image" src="https://github.com/user-attachments/assets/bd589d6b-bfa6-4bda-a040-87b947307008" />
+This chatbot is an informational and educational tool only.
+It does not provide professional medical diagnosis or treatment.
+Users should always consult certified healthcare experts for real medical decisions.
 
