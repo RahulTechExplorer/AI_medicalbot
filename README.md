@@ -26,3 +26,4 @@ This chatbot is an informational and educational tool only.
 It does not provide professional medical diagnosis or treatment.
 Users should always consult certified healthcare experts for real medical decisions.
 
+<img width="2618" height="1271" alt="Screenshot 2025-12-05 193837" src="https://github.com/user-attachments/assets/793a7f9c-0752-4994-b859-306d75cf1471" />
